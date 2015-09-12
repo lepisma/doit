@@ -4,6 +4,10 @@
 
 #### Don't let your dreams be dreams
 
-**Do It** is a chrome extension for one click motivation.
+**Do It** is a chrome extension for quick motivation.
 
 Assists in laziness induced bottlenecks.
+
+##### Keyboard shortcut
+
+<kbd>Ctrl / Command</kbd> + <kbd>Shift</kbd> + <kbd>A</kbd>
